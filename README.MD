@@ -66,6 +66,11 @@ Usage of ./multissh:
     	username
   -v	show version
 ```
+
+#### ./multissh -cmdfile cmd1.txt.example -hostfile host.txt.example -l -u root -p ,
+##### modify like this
+
+
 **cmdfile 示例**
 ```
 show clock
